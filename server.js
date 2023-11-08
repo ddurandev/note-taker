@@ -40,6 +40,7 @@ app.delete('/api/notes/:id', (req, res) => {
             notes.splice(i, 1)
         }
     }
+    fs.writeFileSync('./db/db.json', JSON.stringify(notes))
     res.json(notes)
 })
 
