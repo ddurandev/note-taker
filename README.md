@@ -16,6 +16,8 @@ N/A
 
 ## Usage
 
+### Link to site: https://note-taker11723-7095b105c508.herokuapp.com/
+
 ### This is the home page, press the get started button to begin.
 ![alt text](./Assets/home-screen.png)<br>
 
